@@ -71,7 +71,7 @@ class MedicalSummarizer:
 
         self.conn.commit()
 
-    # Note: This function was constructed with the assistance of AI tools
+    # Note: This function was made with the assistance of AI tools
     def extract_patient_info(self, text: str) -> tuple:
         """Extract patient ID and date"""
         # Patient ID patterns
