@@ -1,0 +1,115 @@
+Patient ID: P-001
+Date: 03/20/2024
+Report Type: Primary Care Visit
+
+Chief Complaint: Fatigue and headache
+
+Patient reports feeling tired for the past week with occasional headaches.
+No fever or nausea reported.
+
+Current Medications:
+- Lisinopril 10mg daily
+- Metformin 500mg twice daily
+
+Vital Signs:
+Blood pressure: 130/85
+Temperature: 98.2
+
+Assessment:
+Diagnosis: Essential hypertension, well controlled. Fatigue likely related
+to recent schedule changes.
+
+Plan: Continue current medications, follow up in 3 months.
+
+---
+Patient ID: P-002
+Date: 03/22/2024
+Report Type: ER Visit
+
+Chief Complaint: Chest pain and shortness of breath
+
+Patient presented to ER with acute chest pain and dyspnea lasting 2 hours.
+No prior cardiac history.
+
+Current Medications:
+- Aspirin 81mg daily
+
+Vital Signs:
+Blood pressure: 150/95
+Temperature: 98.6
+Glucose: 112
+
+Assessment:
+Impression: Possible angina. Recommend cardiology consult and admission.
+
+Plan: Admit to CCU, start nitroglycerin drip, monitor ECG.
+
+---
+Patient ID: P-003
+Date: 03/25/2024
+Report Type: Outpatient Clinic
+
+Chief Complaint: Abdominal pain and nausea
+
+Patient complains of intermittent abdominal discomfort and nausea
+after meals for the past 2 weeks.
+
+Current Medications:
+- Omeprazole 20mg daily
+
+Vital Signs:
+Blood pressure: 118/75
+Temperature: 99.1
+Hemoglobin: 13.5
+
+Assessment:
+Diagnosis: Suspected gastritis. Rule out peptic ulcer.
+
+Plan: Increase omeprazole, order abdominal ultrasound.
+
+---
+Patient ID: P-004
+Date: 03/28/2024
+Report Type: Inpatient Progress Note
+
+Chief Complaint: Persistent fever and cough
+
+Patient admitted for community-acquired pneumonia. Currently on antibiotics.
+Reports mild shortness of breath and fatigue.
+
+Current Medications:
+- Azithromycin 500mg IV daily
+- Acetaminophen 500mg as needed
+
+Vital Signs:
+Blood pressure: 122/80
+Temperature: 101.4
+Glucose: 98
+
+Assessment:
+Diagnosis: Community-acquired pneumonia, improving on antibiotics.
+
+Plan: Continue antibiotics, monitor vitals, repeat chest X-ray.
+
+---
+Patient ID: P-005
+Date: 04/02/2024
+Report Type: Follow-up Visit
+
+Chief Complaint: Joint pain and fatigue
+
+Patient reports chronic knee pain worsening over the past month.
+Mild morning stiffness noted. No recent injuries.
+
+Current Medications:
+- Ibuprofen 400mg as needed
+
+Vital Signs:
+Blood pressure: 125/82
+Temperature: 98.5
+Cholesterol: 205
+
+Assessment:
+Diagnosis: Osteoarthritis of the knee.
+
+Plan: Continue NSAIDs, recommend physical therapy, consider steroid injection.
